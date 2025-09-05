@@ -1,8 +1,5 @@
 let us picturise the given sudoko 
---3-
--3-1
-3---
--1--
+
 let a cell in the sudoko be named [x,y] where x is row number and y is coloumn number
 in the cell [1,1] the number will be 1 since [1,2] an [1,4] cannot be 1 and there should be 1 in the row
 now in the cell [3,3] the number will be 1 for the same reason
@@ -15,9 +12,4 @@ now we are left with 2 rows, we can first complete one row by inserting 2 and 4 
 i filled cell [2,1] and [2,3] with 2 and 4 respectively
 now this leaves us with row4, since [4,1]  cannot be filled with 2 since there is 2 in the given coloumn so we fill cell [4,3] with 2 instead and complete the row by filling [4,1] cell with 4
 
- our completed sudoko will look like this
 
- 1234
- 2341
- 3412
- 4123
