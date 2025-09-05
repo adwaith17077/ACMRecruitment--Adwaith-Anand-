@@ -15,6 +15,6 @@ step4:when 7 and 10 reaches y they will hand over the torch to 2 and 2 will cros
 step5:1 and 2 will then cross the bridge to reach y which takes 2 minutes
 
 so overall it takes 2+1+10+2+2=17 minutes
-
+ 
 
 
