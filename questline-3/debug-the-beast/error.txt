@@ -15,7 +15,7 @@ Program: Find the second largest number in a list
 	
 	print("Second largest:", second_largest(arr))
 in the given code i have found an error in the elif statement which when the given list has 2 or more same largest element, the variable second will take the the vaalue of largest value
-hence we rewrite the statetment as 'elif num>second and num!=0:' and i also dont there is a need to have a variable 'n' as u can input the no of elemennts as you like in the next statement using map function
+hence we rewrite the statetment in line no 10 as 'elif num>second and num!=0:' and i also dont there is a need to have a variable 'n'  in line 13 as u can input the no of elemennts as you like in the next statement using map function
 so the corrected code according to me will be:
 
 	def second_largest(arr):
