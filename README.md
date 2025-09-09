@@ -1,2 +1,2 @@
-# ACMRecruitment--Adwaith-Anand- updated 2
+# ACMRecruitment--Adwaith-Anand
 This repository is created for ACM task
